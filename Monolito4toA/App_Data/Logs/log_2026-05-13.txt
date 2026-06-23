@@ -1,0 +1,8 @@
+[2026-05-13 09:14:30.262] [INFO] [Autenticación] Intentos reseteados por nuevo día para: izumif148@gmail.com
+[2026-05-13 09:14:30.338] [INFO] [Autenticación] Login exitoso: izumif148@gmail.com
+[2026-05-13 09:14:35.356] [INFO] [Logout] Cierre de sesión: izumif148@gmail.com
+[2026-05-13 09:32:36.250] [INFO] [Autenticación QR] Login exitoso mediante QR: izumif148@gmail.com
+[2026-05-13 10:00:12.320] [INFO] [Autenticación] Login exitoso: izumif148@gmail.com
+[2026-05-13 10:00:14.329] [INFO] [Logout] Cierre de sesión: izumif148@gmail.com
+[2026-05-13 10:00:22.722] [INFO] [Autenticación] Login exitoso: izumif148@gmail.com
+[2026-05-13 10:00:29.422] [INFO] [Logout] Cierre de sesión: izumif148@gmail.com

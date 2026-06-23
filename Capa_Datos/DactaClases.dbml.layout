@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DactaClases">
+  <DataContextMoniker Name="/DactaClasesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="96854a65-b8d8-4f03-88ed-c4cce0df849d" absoluteBounds="0.75, 2.25, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/DactaClasesDataContext/tbl_tipo_usuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="00a6e41d-1d62-435b-9d16-095a5b1a333f" absoluteBounds="0.765, 2.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="99ec2f73-d6c2-45b7-96c2-2cb3a6348606" absoluteBounds="3.5, 1, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/DactaClasesDataContext/tbl_usuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="022c3b2b-69d6-405c-bb7e-82b6c85fee00" absoluteBounds="3.515, 1.46, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.94314697265625); (3.5 : 2.94314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DactaClasesDataContext/tbl_tipo_usuario/tbl_tipo_usuario_tbl_usuario" />
+      <nodes>
+        <classShapeMoniker Id="96854a65-b8d8-4f03-88ed-c4cce0df849d" />
+        <classShapeMoniker Id="99ec2f73-d6c2-45b7-96c2-2cb3a6348606" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,23 @@
+[2026-05-12 08:22:32.428] [INFO] [Autenticación QR] Login exitoso mediante QR: izumif148@gmail.com
+[2026-05-12 08:59:37.488] [INFO] [Autenticación] Login exitoso: izumif148@gmail.com
+[2026-05-12 09:00:01.041] [INFO] [Logout] Cierre de sesión: izumif148@gmail.com
+[2026-05-12 09:00:10.310] [INFO] [Autenticación Social] Login social exitoso: izumif148@gmail.com
+[2026-05-12 09:00:13.563] [INFO] [Logout] Cierre de sesión: izumif148@gmail.com
+[2026-05-12 09:01:00.112] [INFO] [Registro Social] Nuevo usuario social registrado: jmfr149@gmail.com
+[2026-05-12 09:01:10.484] [INFO] [Logout] Cierre de sesión: jmfr149@gmail.com
+[2026-05-12 09:01:31.595] [INFO] [Autenticación QR] Login exitoso mediante QR: izumif148@gmail.com
+[2026-05-12 09:11:17.151] [INFO] [Autenticación QR] Login exitoso mediante QR: izumif148@gmail.com
+[2026-05-12 09:12:34.481] [INFO] [Logout] Cierre de sesión: izumif148@gmail.com
+[2026-05-12 09:15:56.139] [INFO] [Registro] Usuario registrado: joseartega02@gmail.com
+[2026-05-12 09:15:58.905] [INFO] [Registro] Correo de bienvenida y QR enviado a: joseartega02@gmail.com
+[2026-05-12 09:17:28.910] [INFO] [Autenticación QR] Login exitoso mediante QR: joseartega02@gmail.com
+[2026-05-12 09:34:20.982] [INFO] [Autenticación] Login exitoso: izumif148@gmail.com
+[2026-05-12 09:34:28.700] [INFO] [Logout] Cierre de sesión: izumif148@gmail.com
+[2026-05-12 09:35:54.363] [INFO] [Autenticación QR] Login exitoso mediante QR: joseartega02@gmail.com
+[2026-05-12 09:36:32.167] [INFO] [Autenticación] Login exitoso: user@test.com
+[2026-05-12 09:38:21.495] [INFO] [Logout] Cierre de sesión: user@test.com
+[2026-05-12 09:38:30.536] [SECURITY] [Cambio Password] Contraseña actualizada para usuario ID: 1
+[2026-05-12 09:38:33.565] [INFO] [WhatsApp] Mensaje de WhatsApp enviado a +593962244827
+[2026-05-12 09:38:33.569] [SECURITY] [Recuperación] Clave temporal generada y enviada a: jmfr148@gmail.com
+[2026-05-12 11:38:30.227] [INFO] [Autenticación] Login exitoso: izumif148@gmail.com
+[2026-05-12 11:38:55.342] [INFO] [Autenticación Social] Login social exitoso: jmfr148@gmail.com

@@ -1,0 +1,8 @@
+[2026-06-01 09:34:30] [ERROR] [Registro] Fallo registro
+  -> Exception: Login failed for user '4toA'.
+[2026-06-01 09:36:42] [ERROR] [Registro] Fallo registro
+  -> Exception: El parámetro no es válido.
+[2026-06-01 18:45:45] [INFO] [Juego] Puntaje guardado: jmfr148 → 44 pts
+[2026-06-01 18:46:42] [WARNING] [WhatsApp] Fallo WhatsApp a +593962244827. HTTP NotFound
+[2026-06-01 18:48:45] [WARNING] [WhatsApp] Fallo WhatsApp a +593983168790. HTTP NotFound
+[2026-06-01 18:49:39] [WARNING] [WhatsApp] Fallo WhatsApp a +593962244827. HTTP NotFound

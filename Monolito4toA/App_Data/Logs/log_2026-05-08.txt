@@ -1,0 +1,75 @@
+[2026-05-08 09:33:55.358] [INFO] [Autenticación Social] Login social exitoso: jmfr148@gmail.com
+[2026-05-08 09:34:19.845] [INFO] [Logout] Cierre de sesión: jmfr148@gmail.com
+[2026-05-08 09:39:42.991] [INFO] [Autenticación Social] Login social exitoso: jmfr148@gmail.com
+[2026-05-08 09:40:23.623] [INFO] [Logout] Cierre de sesión: jmfr148@gmail.com
+[2026-05-08 09:40:59.996] [SECURITY] [Recuperación] Código OTP generado y enviado a: jmfr148@gmail.com
+[2026-05-08 09:41:30.045] [SECURITY] [Recuperación] Código OTP verificado correctamente para: jmfr148@gmail.com
+[2026-05-08 09:42:33.430] [ERROR] [Registro] Error al insertar usuario
+  -> Exception: El tipo 'System.Byte[]' debe declarar un constructor predeterminado (sin parámetros) para que pueda construirse durante la asignación.
+  -> StackTrace:    en System.Data.Linq.SqlClient.Translator.BuildProjectionInternal(SqlExpression item, MetaType rowType, IEnumerable`1 members, Boolean allowDeferred, SqlLink link, Expression source)
+   en System.Data.Linq.SqlClient.Translator.BuildProjection(SqlExpression item, MetaType rowType, Boolean allowDeferred, SqlLink link, Expression source)
+   en System.Data.Linq.SqlClient.QueryConverter.VisitUserQuery(String query, Expression[] arguments, Type resultType)
+   en System.Data.Linq.SqlClient.QueryConverter.VisitInner(Expression node)
+   en System.Data.Linq.SqlClient.QueryConverter.ConvertOuter(Expression node)
+   en System.Data.Linq.SqlClient.SqlProvider.BuildQuery(Expression query, SqlNodeAnnotations annotations)
+   en System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   en System.Data.Linq.DataContext.ExecuteQuery[TResult](String query, Object[] parameters)
+   en Capa_Negocio.CN_tbl_usuario.Insertar(tbl_usuario usuario, String plainPassword) en C:\Users\jmfr1\source\repos\Monolito4toA\Capa_Negocio\CN_tbl_usuario.cs:línea 23
+[2026-05-08 09:42:33.611] [ERROR] [Registro] Error en registro de usuario
+  -> Exception: Error al insertar el usuario: El tipo 'System.Byte[]' debe declarar un constructor predeterminado (sin parámetros) para que pueda construirse durante la asignación.
+  -> StackTrace:    en Capa_Negocio.CN_tbl_usuario.Insertar(tbl_usuario usuario, String plainPassword) en C:\Users\jmfr1\source\repos\Monolito4toA\Capa_Negocio\CN_tbl_usuario.cs:línea 33
+   en Monolito4toA.Seguridad.Registrar.btnRegistrar_Click(Object sender, EventArgs e) en C:\Users\jmfr1\source\repos\Monolito4toA\Monolito4toA\Seguridad\Registrar.aspx.cs:línea 99
+[2026-05-08 09:56:56.433] [SECURITY] [Recuperación] Código OTP generado y enviado a: jmfr148@gmail.com
+[2026-05-08 09:59:28.568] [SECURITY] [Recuperación] Código OTP verificado correctamente para: jmfr148@gmail.com
+[2026-05-08 09:59:42.668] [SECURITY] [Recuperación] Código OTP verificado correctamente para: jmfr148@gmail.com
+[2026-05-08 10:05:08.648] [INFO] [Autenticación Social] Login social exitoso: jmfr148@gmail.com
+[2026-05-08 10:05:21.630] [INFO] [Logout] Cierre de sesión: jmfr148@gmail.com
+[2026-05-08 10:06:11.189] [ERROR] [Registro] Error al insertar usuario
+  -> Exception: El tipo 'System.Byte[]' debe declarar un constructor predeterminado (sin parámetros) para que pueda construirse durante la asignación.
+  -> StackTrace:    en System.Data.Linq.SqlClient.Translator.BuildProjectionInternal(SqlExpression item, MetaType rowType, IEnumerable`1 members, Boolean allowDeferred, SqlLink link, Expression source)
+   en System.Data.Linq.SqlClient.Translator.BuildProjection(SqlExpression item, MetaType rowType, Boolean allowDeferred, SqlLink link, Expression source)
+   en System.Data.Linq.SqlClient.QueryConverter.VisitUserQuery(String query, Expression[] arguments, Type resultType)
+   en System.Data.Linq.SqlClient.QueryConverter.VisitInner(Expression node)
+   en System.Data.Linq.SqlClient.QueryConverter.ConvertOuter(Expression node)
+   en System.Data.Linq.SqlClient.SqlProvider.BuildQuery(Expression query, SqlNodeAnnotations annotations)
+   en System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   en System.Data.Linq.DataContext.ExecuteQuery[TResult](String query, Object[] parameters)
+   en Capa_Negocio.CN_tbl_usuario.Insertar(tbl_usuario usuario, String plainPassword) en C:\Users\jmfr1\source\repos\Monolito4toA\Capa_Negocio\CN_tbl_usuario.cs:línea 23
+[2026-05-08 10:06:11.251] [ERROR] [Registro] Error en registro de usuario
+  -> Exception: Error al insertar el usuario: El tipo 'System.Byte[]' debe declarar un constructor predeterminado (sin parámetros) para que pueda construirse durante la asignación.
+  -> StackTrace:    en Capa_Negocio.CN_tbl_usuario.Insertar(tbl_usuario usuario, String plainPassword) en C:\Users\jmfr1\source\repos\Monolito4toA\Capa_Negocio\CN_tbl_usuario.cs:línea 33
+   en Monolito4toA.Seguridad.Registrar.btnRegistrar_Click(Object sender, EventArgs e) en C:\Users\jmfr1\source\repos\Monolito4toA\Monolito4toA\Seguridad\Registrar.aspx.cs:línea 99
+[2026-05-08 10:07:46.899] [ERROR] [Registro] Error al insertar usuario
+  -> Exception: El tipo 'System.Byte[]' debe declarar un constructor predeterminado (sin parámetros) para que pueda construirse durante la asignación.
+  -> StackTrace:    en System.Data.Linq.SqlClient.Translator.BuildProjectionInternal(SqlExpression item, MetaType rowType, IEnumerable`1 members, Boolean allowDeferred, SqlLink link, Expression source)
+   en System.Data.Linq.SqlClient.Translator.BuildProjection(SqlExpression item, MetaType rowType, Boolean allowDeferred, SqlLink link, Expression source)
+   en System.Data.Linq.SqlClient.QueryConverter.VisitUserQuery(String query, Expression[] arguments, Type resultType)
+   en System.Data.Linq.SqlClient.QueryConverter.VisitInner(Expression node)
+   en System.Data.Linq.SqlClient.QueryConverter.ConvertOuter(Expression node)
+   en System.Data.Linq.SqlClient.SqlProvider.BuildQuery(Expression query, SqlNodeAnnotations annotations)
+   en System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   en System.Data.Linq.DataContext.ExecuteQuery[TResult](String query, Object[] parameters)
+   en Capa_Negocio.CN_tbl_usuario.Insertar(tbl_usuario usuario, String plainPassword) en C:\Users\jmfr1\source\repos\Monolito4toA\Capa_Negocio\CN_tbl_usuario.cs:línea 23
+[2026-05-08 10:07:46.936] [ERROR] [Registro] Error en registro de usuario
+  -> Exception: Error al insertar el usuario: El tipo 'System.Byte[]' debe declarar un constructor predeterminado (sin parámetros) para que pueda construirse durante la asignación.
+  -> StackTrace:    en Capa_Negocio.CN_tbl_usuario.Insertar(tbl_usuario usuario, String plainPassword) en C:\Users\jmfr1\source\repos\Monolito4toA\Capa_Negocio\CN_tbl_usuario.cs:línea 33
+   en Monolito4toA.Seguridad.Registrar.btnRegistrar_Click(Object sender, EventArgs e) en C:\Users\jmfr1\source\repos\Monolito4toA\Monolito4toA\Seguridad\Registrar.aspx.cs:línea 99
+[2026-05-08 10:09:29.685] [INFO] [Registro] Usuario registrado: izumif148@gmail.com
+[2026-05-08 10:09:34.728] [INFO] [Registro] Correo de bienvenida y QR enviado a: izumif148@gmail.com
+[2026-05-08 10:09:55.079] [INFO] [Autenticación] Login exitoso: izumif148@gmail.com
+[2026-05-08 10:09:59.127] [INFO] [Logout] Cierre de sesión: izumif148@gmail.com
+[2026-05-08 10:10:09.579] [INFO] [Autenticación QR] Login exitoso mediante QR: izumif148@gmail.com
+[2026-05-08 10:10:13.087] [INFO] [Logout] Cierre de sesión: izumif148@gmail.com
+[2026-05-08 10:15:00.626] [INFO] [Autenticación QR] Login exitoso mediante QR: izumif148@gmail.com
+[2026-05-08 10:15:03.465] [INFO] [Logout] Cierre de sesión: izumif148@gmail.com
+[2026-05-08 10:15:10.437] [INFO] [Autenticación QR] Login exitoso mediante QR: izumif148@gmail.com
+[2026-05-08 10:16:05.600] [INFO] [Logout] Cierre de sesión: izumif148@gmail.com
+[2026-05-08 10:16:22.128] [INFO] [Autenticación QR] Login exitoso mediante QR: izumif148@gmail.com
+[2026-05-08 10:16:29.731] [INFO] [Logout] Cierre de sesión: izumif148@gmail.com
+[2026-05-08 10:16:43.662] [INFO] [Autenticación QR] Login exitoso mediante QR: izumif148@gmail.com
+[2026-05-08 10:31:26.381] [INFO] [Logout] Cierre de sesión: izumif148@gmail.com
+[2026-05-08 10:34:23.100] [INFO] [Autenticación QR] Login exitoso mediante QR: izumif148@gmail.com
+[2026-05-08 10:34:38.851] [INFO] [Logout] Cierre de sesión: izumif148@gmail.com
+[2026-05-08 10:34:45.750] [INFO] [Autenticación Social] Login social exitoso: jmfr148@gmail.com
+[2026-05-08 10:59:07.847] [INFO] [Autenticación QR] Login exitoso mediante QR: izumif148@gmail.com
+[2026-05-08 10:59:17.474] [INFO] [Logout] Cierre de sesión: izumif148@gmail.com

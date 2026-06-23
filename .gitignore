@@ -1,0 +1,34 @@
+## Visual Studio / MSBuild
+[Db]in/
+[Oo]bj/
+[Pp]ackages/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.suo
+*.userpref
+*.dbmdl
+*.jfm
+
+## Node / Frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+## Backups and Archives (Important to avoid uploading large database backups)
+*.bak
+*.zip
+*.rar
+*.7z
+Monolillo4to_Backup.bak
+Monolillo4to_Backup.zip
+Proyecto_Para_Subir.zip
+
+## Local configuration files and history
+Web_temp*.config
+*.log
+prompts_historial_monolito.txt
+secrets.config

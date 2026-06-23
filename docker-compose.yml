@@ -1,0 +1,48 @@
+version: '3.8'
+
+services:
+  # Jenkins Master en contenedor Linux
+  jenkins:
+    image: jenkins/jenkins:lts
+    container_name: jenkins_master
+    restart: always
+    ports:
+      - "8080:8080"   # Interfaz web de Jenkins
+      - "50000:50000" # Puerto para conectar agentes (Windows Agent)
+    volumes:
+      - jenkins_data:/var/jenkins_home
+    environment:
+      - JAVA_OPTS=-Djenkins.install.runSetupWizard=true
+
+volumes:
+  jenkins_data:
+    driver: local
+
+# NOTA OPCIONAL: Si deseas correr MongoDB y SQL Server también en Docker, 
+# puedes descomentar el bloque siguiente y ejecutar "docker-compose up -d".
+#
+#  mongodb:
+#    image: mongo:latest
+#    container_name: mongodb_docker
+#    restart: always
+#    ports:
+#      - "27017:27017"
+#    volumes:
+#      - mongo_data:/data/db
+#
+#  sqlserver:
+#    image: mcr.microsoft.com/mssql/server:2022-latest
+#    container_name: sqlserver_docker
+#    restart: always
+#    environment:
+#      - ACCEPT_EULA=Y
+#      - MSSQL_SA_PASSWORD=YourSecurePassword123!
+#    ports:
+#      - "1433:1433"
+#    volumes:
+#      - sqlserver_data:/var/opt/mssql
+#
+#volumes:
+#  jenkins_data:
+#  mongo_data:
+#  sqlserver_data:

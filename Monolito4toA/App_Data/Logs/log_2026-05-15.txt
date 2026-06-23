@@ -1,0 +1,11 @@
+[2026-05-15 00:00:59.462] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 101723 bytes.
+[2026-05-15 00:05:33.688] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 101723 bytes.
+[2026-05-15 00:07:57.747] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 101723 bytes.
+[2026-05-15 00:08:51.453] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 4872675 bytes.
+[2026-05-15 00:10:12.231] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 8431415 bytes.
+[2026-05-15 00:12:27.939] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 8431415 bytes.
+[2026-05-15 00:13:43.552] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 8431415 bytes.
+[2026-05-15 00:23:06.696] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 6820586 bytes.
+[2026-05-15 00:23:22.694] [INFO] [Juego] Puntaje guardado: JoseF → 72 pts
+[2026-05-15 00:23:46.378] [INFO] [WhatsApp] WhatsApp enviado a +593983168790 | Response: {"sent":"true","message":"ok","id":6}
+[2026-05-15 00:24:30.059] [INFO] [Perfil] Procesando nueva imagen para usuario 7. Tamaño: 8431415 bytes.

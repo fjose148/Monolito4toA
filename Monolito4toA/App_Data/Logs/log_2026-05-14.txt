@@ -1,0 +1,126 @@
+[2026-05-14 20:53:44.501] [INFO] [Autenticación] Login exitoso: admin@monolito4to.com
+[2026-05-14 20:54:12.808] [SECURITY] [QR] QR regenerado: admin@monolito4to.com
+[2026-05-14 21:00:18.562] [INFO] [Autenticación] Login exitoso: admin@monolito4to.com
+[2026-05-14 21:25:08.700] [INFO] [Autenticación] Login exitoso: admin@monolito4to.com
+[2026-05-14 21:28:57.974] [INFO] [Autenticación] Login exitoso: admin@monolito4to.com
+[2026-05-14 21:32:14.745] [INFO] [Autenticación] Login exitoso: admin@monolito4to.com
+[2026-05-14 21:35:55.016] [INFO] [Autenticación] Login exitoso: admin@monolito4to.com
+[2026-05-14 21:38:17.583] [INFO] [Social] Usuario social creado: jmfr148@gmail.com
+[2026-05-14 21:39:06.955] [INFO] [Social] Login social: jmfr148@gmail.com
+[2026-05-14 21:39:11.191] [INFO] [Juego] Puntaje guardado: jmfr148 → 13 pts
+[2026-05-14 21:39:13.504] [INFO] [Juego] Puntaje guardado: jmfr148 → 13 pts
+[2026-05-14 21:41:37.163] [INFO] [Registro] Usuario registrado: izumif148@gmail.com
+[2026-05-14 21:41:41.122] [INFO] [WhatsApp] WhatsApp enviado a +593962244827 | Response: {"sent":"true","message":"ok","id":1}
+[2026-05-14 22:40:31.847] [INFO] [Juego] Puntaje guardado: jmfr148 → 67 pts
+[2026-05-14 22:40:35.183] [INFO] [Juego] Puntaje guardado: jmfr148 → 19 pts
+[2026-05-14 22:40:42.519] [INFO] [Juego] Puntaje guardado: jmfr148 → 43 pts
+[2026-05-14 22:40:47.193] [INFO] [Juego] Puntaje guardado: jmfr148 → 27 pts
+[2026-05-14 22:40:54.546] [INFO] [Juego] Puntaje guardado: jmfr148 → 43 pts
+[2026-05-14 22:44:26.825] [INFO] [WhatsApp] WhatsApp enviado a +593962244827 | Response: {"sent":"true","message":"ok","id":2}
+[2026-05-14 22:54:20.648] [INFO] [Auth] [SECURITY] Clave Temporal: 7ea1a625 enviada a jmfr148@gmail.com y WhatsApp 
+[2026-05-14 22:54:34.905] [INFO] [Auth] [SECURITY] Clave Temporal: 86c06caf enviada a izumif148@gmail.com y WhatsApp 0962244827
+[2026-05-14 22:55:37.264] [INFO] [Juego] Puntaje guardado: Alejo12 → 26 pts
+[2026-05-14 22:55:40.233] [INFO] [Juego] Puntaje guardado: Alejo12 → 26 pts
+[2026-05-14 22:55:43.199] [INFO] [Juego] Puntaje guardado: Alejo12 → 26 pts
+[2026-05-14 22:55:46.159] [INFO] [Juego] Puntaje guardado: Alejo12 → 26 pts
+[2026-05-14 22:55:48.091] [INFO] [Juego] Puntaje guardado: Alejo12 → 17 pts
+[2026-05-14 22:55:49.998] [INFO] [Juego] Puntaje guardado: Alejo12 → 17 pts
+[2026-05-14 22:55:52.948] [INFO] [Juego] Puntaje guardado: Alejo12 → 26 pts
+[2026-05-14 23:01:55.072] [INFO] [Juego] Puntaje guardado: Alejo12 → 26 pts
+[2026-05-14 23:01:57.038] [INFO] [Juego] Puntaje guardado: Alejo12 → 17 pts
+[2026-05-14 23:01:59.006] [INFO] [Juego] Puntaje guardado: Alejo12 → 17 pts
+[2026-05-14 23:02:01.994] [INFO] [Juego] Puntaje guardado: Alejo12 → 26 pts
+[2026-05-14 23:02:04.978] [INFO] [Juego] Puntaje guardado: Alejo12 → 26 pts
+[2026-05-14 23:02:07.970] [INFO] [Juego] Puntaje guardado: Alejo12 → 26 pts
+[2026-05-14 23:03:11.761] [INFO] [Auth] [SECURITY] Clave Temporal: 44e0086d enviada a jmfr148@gmail.com y WhatsApp 
+[2026-05-14 23:06:22.688] [INFO] [Juego] Puntaje guardado: jmfr148 → 53 pts
+[2026-05-14 23:06:27.699] [INFO] [Juego] Puntaje guardado: jmfr148 → 44 pts
+[2026-05-14 23:06:30.685] [INFO] [Juego] Puntaje guardado: jmfr148 → 26 pts
+[2026-05-14 23:06:32.648] [INFO] [Juego] Puntaje guardado: jmfr148 → 17 pts
+[2026-05-14 23:06:46.733] [INFO] [Juego] Puntaje guardado: jmfr148 → 126 pts
+[2026-05-14 23:06:53.772] [INFO] [Juego] Puntaje guardado: jmfr148 → 62 pts
+[2026-05-14 23:06:56.743] [INFO] [Juego] Puntaje guardado: jmfr148 → 26 pts
+[2026-05-14 23:07:24.679] [INFO] [Auth] [SECURITY] Clave Temporal: b2f4e0e8 enviada a jmfr148@gmail.com y WhatsApp 
+[2026-05-14 23:09:46.304] [INFO] [WhatsApp] WhatsApp enviado a +593962244827 | Response: {"sent":"true","message":"ok","id":3}
+[2026-05-14 23:09:55.371] [INFO] [Auth] [SECURITY] Clave Temporal: d1587e6d enviada a izumif148@gmail.com y WhatsApp 0962244827
+[2026-05-14 23:10:36.426] [INFO] [Auth] [SECURITY] Clave Temporal: 88db73c0 enviada a izumif148@gmail.com y WhatsApp 0962244827
+[2026-05-14 23:10:55.360] [INFO] [Auth] [SECURITY] Clave Temporal: 7c5d8b08 enviada a izumif148@gmail.com y WhatsApp 0962244827
+[2026-05-14 23:11:18.102] [INFO] [Auth] [SECURITY] Clave Temporal: 9cc0916e enviada a izumif148@gmail.com y WhatsApp 0962244827
+[2026-05-14 23:14:35.458] [INFO] [WhatsApp] WhatsApp enviado a +593983168790 | Response: {"sent":"true","message":"ok","id":4}
+[2026-05-14 23:14:53.841] [INFO] [Auth] [SECURITY] Clave Temporal: 0c153520 enviada a izumif148@gmail.com y WhatsApp 0962244827
+[2026-05-14 23:15:12.830] [INFO] [Auth] [SECURITY] Clave Temporal: 51a3245d enviada a jfjose148@gmail.com y WhatsApp 0983168790
+[2026-05-14 23:19:14.228] [INFO] [Auth] [SECURITY] Clave Temporal: 6e1e1176 enviada a jmfr148@gmail.com y WhatsApp 
+[2026-05-14 23:19:24.061] [INFO] [Auth] [SECURITY] Clave Temporal: 02c0a1ff enviada a izumif148@gmail.com y WhatsApp 0962244827
+[2026-05-14 23:19:34.112] [INFO] [Auth] [SECURITY] Clave Temporal: 31490ed0 enviada a jfjose148@gmail.com y WhatsApp 0983168790
+[2026-05-14 23:23:57.363] [INFO] [Auth] [SECURITY] Clave Temporal: 6d312bc5 enviada a jfjose148@gmail.com y WhatsApp 0983168790
+[2026-05-14 23:26:30.533] [INFO] [WhatsApp] WhatsApp enviado a +593983168790 | Response: {"sent":"true","message":"ok","id":5}
+[2026-05-14 23:30:50.211] [INFO] [Juego] Puntaje guardado: Alejo123 → 36 pts
+[2026-05-14 23:31:01.312] [INFO] [Juego] Puntaje guardado: Alejo123 → 99 pts
+[2026-05-14 23:31:04.278] [INFO] [Juego] Puntaje guardado: Alejo123 → 26 pts
+[2026-05-14 23:35:30.508] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 8431415 bytes.
+[2026-05-14 23:39:42.146] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 8431415 bytes.
+[2026-05-14 23:42:57.015] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 4872675 bytes.
+[2026-05-14 23:46:50.610] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 4872675 bytes.
+[2026-05-14 23:46:51.051] [ERROR] [Perfil] Error en Guardar Perfil
+  -> Exception: String or binary data would be truncated in table 'Monolillo4to.dbo.tbl_usuario', column 'usu_imagen'. Truncated value: 'data:image/jpeg;base64,/9j/4RrmRXhpZgAASUkqAAgAAAAOAAABAwABAAAAEBEAAAEBAwABAAAAkAkAAAIBAwADAAAAtgAAA'.
+The statement has been terminated.
+  -> StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   en System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   en System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   en System.Data.Linq.ChangeDirector.StandardChangeDirector.DynamicUpdate(TrackedObject item)
+   en System.Data.Linq.ChangeProcessor.SubmitChanges(ConflictMode failureMode)
+   en System.Data.Linq.DataContext.SubmitChanges(ConflictMode failureMode)
+   en Monolito4toA.Perfil.btnGuardar_Click(Object sender, EventArgs e) en C:\Users\jmfr1\source\repos\Monolito4toA\Monolito4toA\Perfil.aspx.cs:línea 153
+[2026-05-14 23:47:07.935] [INFO] [Juego] Puntaje guardado: JoseF → 35 pts
+[2026-05-14 23:47:27.647] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 5475702 bytes.
+[2026-05-14 23:47:27.912] [ERROR] [Perfil] Error en Guardar Perfil
+  -> Exception: String or binary data would be truncated in table 'Monolillo4to.dbo.tbl_usuario', column 'usu_imagen'. Truncated value: 'data:image/jpeg;base64,/9j/4R8aRXhpZgAASUkqAAgAAAAOAAABAwABAAAAwA8AAAEBAwABAAAAgAoAAAIBAwADAAAAtgAAA'.
+The statement has been terminated.
+  -> StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   en System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   en System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   en System.Data.Linq.ChangeDirector.StandardChangeDirector.DynamicUpdate(TrackedObject item)
+   en System.Data.Linq.ChangeProcessor.SubmitChanges(ConflictMode failureMode)
+   en System.Data.Linq.DataContext.SubmitChanges(ConflictMode failureMode)
+   en Monolito4toA.Perfil.btnGuardar_Click(Object sender, EventArgs e) en C:\Users\jmfr1\source\repos\Monolito4toA\Monolito4toA\Perfil.aspx.cs:línea 153
+[2026-05-14 23:48:39.735] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 4872675 bytes.
+[2026-05-14 23:48:40.068] [ERROR] [Perfil] Error en Guardar Perfil
+  -> Exception: String or binary data would be truncated in table 'Monolillo4to.dbo.tbl_usuario', column 'usu_imagen'. Truncated value: 'data:image/jpeg;base64,/9j/4RrmRXhpZgAASUkqAAgAAAAOAAABAwABAAAAEBEAAAEBAwABAAAAkAkAAAIBAwADAAAAtgAAA'.
+The statement has been terminated.
+  -> StackTrace:    en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   en System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   en System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   en System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   en System.Data.Linq.ChangeDirector.StandardChangeDirector.DynamicUpdate(TrackedObject item)
+   en System.Data.Linq.ChangeProcessor.SubmitChanges(ConflictMode failureMode)
+   en System.Data.Linq.DataContext.SubmitChanges(ConflictMode failureMode)
+   en Monolito4toA.Perfil.btnGuardar_Click(Object sender, EventArgs e) en C:\Users\jmfr1\source\repos\Monolito4toA\Monolito4toA\Perfil.aspx.cs:línea 153
+[2026-05-14 23:49:18.137] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 8431415 bytes.
+[2026-05-14 23:51:07.419] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 101723 bytes.
+[2026-05-14 23:52:47.877] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 101723 bytes.
+[2026-05-14 23:53:26.538] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 101723 bytes.
+[2026-05-14 23:56:32.132] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 101723 bytes.
+[2026-05-14 23:57:23.435] [INFO] [Perfil] Procesando nueva imagen para usuario 6. Tamaño: 101723 bytes.

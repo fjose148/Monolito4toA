@@ -1,0 +1,6 @@
+[2026-06-05 08:03:40] [ERROR] [Auth] Error en recovery
+  -> Exception: No se puede convertir un objeto de tipo 'MongoDB.Bson.BsonNull' al tipo 'MongoDB.Bson.BsonString'.
+[2026-06-05 08:06:05] [ERROR] [Auth] Error en recovery
+  -> Exception: No se puede convertir un objeto de tipo 'MongoDB.Bson.BsonNull' al tipo 'MongoDB.Bson.BsonString'.
+[2026-06-05 08:08:42] [ERROR] [Auth] Error en recovery
+  -> Exception: No se puede convertir un objeto de tipo 'MongoDB.Bson.BsonNull' al tipo 'MongoDB.Bson.BsonString'.

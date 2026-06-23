@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><Database Name="Monolillo4to" Class="DactaClasesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=KYOMU\SQLEXPRESS;Initial Catalog=Monolillo4to;Integrated Security=True;Encrypt=False" SettingsObjectName="Capa_Datos.Properties.Settings" SettingsPropertyName="Monolillo4toConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tbl_tipo_usuario" Member="tbl_tipo_usuario">
+    <Type Name="tbl_tipo_usuario">
+      <Column Name="tusu_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="tusu_nombre" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="tusu_estado" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Association Name="tbl_tipo_usuario_tbl_usuario" Member="tbl_usuario" ThisKey="tusu_id" OtherKey="tusu_id" Type="tbl_usuario" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbl_usuario" Member="tbl_usuario">
+    <Type Name="tbl_usuario">
+      <Column Name="usu_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="usu_cedula" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="usu_nombres" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="usu_apellidos" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="usu_direcciones" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="usu_celular" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="usu_correo" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="usu_fecha_creacion" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="usu_fecha_cumple" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="usu_nick" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="usu_contraseña" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="usu_intentos" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="usu_codigo_OTP" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="usu_estado" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="tusu_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="usu_fecha_ultimo_intento" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="usu_imagen" Type="System.String" DbType="VarChar(250)" CanBeNull="true" />
+      <Association Name="tbl_tipo_usuario_tbl_usuario" Member="tbl_tipo_usuario" ThisKey="tusu_id" OtherKey="tusu_id" Type="tbl_tipo_usuario" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
