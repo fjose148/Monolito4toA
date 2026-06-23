@@ -29,6 +29,17 @@ pipeline {
             }
         }
 
+        stage('Restaurar Paquetes npm') {
+            steps {
+                powershell '''
+                Write-Host "Iniciando restauración de paquetes npm..."
+                cd Monolito4toA
+                npm install --no-audit --no-fund
+                Write-Host "Restauración de paquetes npm completada."
+                '''
+            }
+        }
+
         stage('Compilar Solución') {
             steps {
                 powershell '''
